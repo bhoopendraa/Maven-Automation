@@ -1,0 +1,230 @@
+2017-08-02 10:34:01,887 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:06:25,084 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:06:27,161 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:06:27,257 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:06:53,492 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:06:53,591 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:06:53,709 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:06:57,752 INFO  [Log1] =======Starting VerifyServiceandPartsSalesBankOrder test======== 
+2017-08-02 11:07:03,105 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:07:05,425 INFO  [Log1] Dealer selected 
+2017-08-02 11:07:07,615 INFO  [Log1] Click On Service and Parts Sales Bank Link 
+2017-08-02 11:07:07,878 INFO  [Log1] Select parts to Order1 
+2017-08-02 11:07:07,970 INFO  [Log1] Select parts to Order2 
+2017-08-02 11:07:08,449 INFO  [Log1] Select parts to Order3 
+2017-08-02 11:07:08,528 INFO  [Log1] Select parts to Order4 
+2017-08-02 11:07:08,604 INFO  [Log1] Select parts to Order5 
+2017-08-02 11:07:10,553 INFO  [Log1] Click On Order Button 
+2017-08-02 11:22:03,214 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:22:03,341 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:22:03,445 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:22:24,722 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:22:24,820 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:22:24,910 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:22:29,039 INFO  [Log1] =======Starting VerifyServiceandPartsSalesBankOrder test======== 
+2017-08-02 11:22:34,256 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:22:36,109 INFO  [Log1] Dealer selected 
+2017-08-02 11:22:42,626 INFO  [Log1] Click On Service and Parts Sales Bank Link 
+2017-08-02 11:22:42,727 INFO  [Log1] Select parts to Order1 
+2017-08-02 11:22:42,805 INFO  [Log1] Select parts to Order2 
+2017-08-02 11:22:42,888 INFO  [Log1] Select parts to Order3 
+2017-08-02 11:22:42,972 INFO  [Log1] Select parts to Order4 
+2017-08-02 11:22:43,056 INFO  [Log1] Select parts to Order5 
+2017-08-02 11:22:43,168 INFO  [Log1] Click On Order Button 
+2017-08-02 11:23:04,629 INFO  [Log1] =======Finished VerifyServiceandPartsSalesBankOrder test======== 
+2017-08-02 11:23:17,685 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:23:17,782 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:23:17,873 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:23:21,627 INFO  [Log1] =======Starting VerifySSOpartsOrdering test======== 
+2017-08-02 11:23:23,435 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:23:25,544 INFO  [Log1] Dealer selected 
+2017-08-02 11:23:27,610 INFO  [Log1] SSOOrderLink Clicked 
+2017-08-02 11:23:27,869 INFO  [Log1] Parts number entered 
+2017-08-02 11:23:27,943 INFO  [Log1] quantity  entered 
+2017-08-02 11:23:28,027 INFO  [Log1] Tab Clicked 
+2017-08-02 11:23:30,100 INFO  [Log1] Comments  entered 
+2017-08-02 11:23:30,231 INFO  [Log1] Order button clicked 
+2017-08-02 11:23:36,468 INFO  [Log1] Parts Order number entered 
+2017-08-02 11:23:36,556 INFO  [Log1] Submit Order button clicked 
+2017-08-02 11:23:56,648 INFO  [Log1] =======Finished VerifySSOpartsOrdering test======== 
+2017-08-02 11:23:59,769 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:23:59,866 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:23:59,954 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:24:42,455 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:24:42,559 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:24:42,647 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:24:46,718 INFO  [Log1] =======Starting VerifySSOpartsinquiry test======== 
+2017-08-02 11:24:50,167 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:24:52,189 INFO  [Log1] Dealer selected 
+2017-08-02 11:24:53,910 INFO  [Log1] SSOOrderLink Clicked 
+2017-08-02 11:24:54,090 INFO  [Log1] Parts number entered 
+2017-08-02 11:24:54,165 INFO  [Log1] quantity  entered 
+2017-08-02 11:24:54,240 INFO  [Log1] Tab Clicked 
+2017-08-02 11:24:56,307 INFO  [Log1] Comments  entered 
+2017-08-02 11:25:06,107 INFO  [Log1] Inquery button clicked 
+2017-08-02 11:25:16,142 INFO  [Log1] =======Finished VerifySSOpartsinquiry test======== 
+2017-08-02 11:25:18,575 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:25:18,673 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:25:18,767 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:25:22,905 INFO  [Log1] =======Starting VerifySSOPartsReset test======== 
+2017-08-02 11:25:24,905 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:25:25,948 INFO  [Log1] Dealer selected 
+2017-08-02 11:25:27,401 INFO  [Log1] SSOOrderLink Clicked 
+2017-08-02 11:25:27,580 INFO  [Log1] Parts number entered 
+2017-08-02 11:25:27,655 INFO  [Log1] quantity  entered 
+2017-08-02 11:25:27,751 INFO  [Log1] Comments  entered 
+2017-08-02 11:25:29,840 INFO  [Log1] Reset Button Clicked 
+2017-08-02 11:25:36,875 INFO  [Log1] =======Finished VerifySSOPartsReset test======== 
+2017-08-02 11:25:39,405 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:25:39,494 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:25:39,586 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:25:44,046 INFO  [Log1] =======Starting VerifyAddAdditionalParts test======== 
+2017-08-02 11:25:47,249 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:25:48,294 INFO  [Log1] Dealer selected 
+2017-08-02 11:25:49,773 INFO  [Log1] SSOOrderLink Clicked 
+2017-08-02 11:25:49,964 INFO  [Log1] Parts number entered 
+2017-08-02 11:25:50,041 INFO  [Log1] quantity  entered 
+2017-08-02 11:25:59,020 INFO  [Log1] =======Finished VerifyAddAdditionalParts test======== 
+2017-08-02 11:26:01,967 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:26:02,060 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:26:02,165 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:26:05,930 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-02 11:26:09,577 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:26:11,683 INFO  [Log1] Dealer selected 
+2017-08-02 11:26:13,749 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:26:13,940 INFO  [Log1] Parts number entered 
+2017-08-02 11:26:14,014 INFO  [Log1] quantity  entered 
+2017-08-02 11:26:14,089 INFO  [Log1] Tab Clicked 
+2017-08-02 11:26:16,157 INFO  [Log1] Comments  entered 
+2017-08-02 11:26:16,288 INFO  [Log1] Order button clicked 
+2017-08-02 11:26:28,060 INFO  [Log1] =======Finished VerifyCSOpartsOrdering test======== 
+2017-08-02 11:26:40,633 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:26:40,725 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:26:40,816 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:26:45,318 INFO  [Log1] =======Starting Verifypartsinquiry test======== 
+2017-08-02 11:26:47,335 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:26:49,290 INFO  [Log1] Dealer selected 
+2017-08-02 11:26:51,347 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:26:51,534 INFO  [Log1] Parts number entered 
+2017-08-02 11:26:51,610 INFO  [Log1] quantity  entered 
+2017-08-02 11:26:51,684 INFO  [Log1] Tab Clicked 
+2017-08-02 11:26:53,748 INFO  [Log1] Comments  entered 
+2017-08-02 11:26:57,421 INFO  [Log1] Inquery button clicked 
+2017-08-02 11:27:06,463 INFO  [Log1] =======Finished Verifypartsinquiry test======== 
+2017-08-02 11:27:09,970 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:27:10,059 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:27:10,151 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:27:14,515 INFO  [Log1] =======Starting VerifyCSOPartsReset test======== 
+2017-08-02 11:27:16,506 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:27:17,996 INFO  [Log1] Dealer selected 
+2017-08-02 11:27:20,374 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:27:20,577 INFO  [Log1] Parts number entered 
+2017-08-02 11:27:20,657 INFO  [Log1] quantity  entered 
+2017-08-02 11:27:20,735 INFO  [Log1] Tab Clicked 
+2017-08-02 11:27:24,830 INFO  [Log1] Reset Button Clicked 
+2017-08-02 11:27:31,881 INFO  [Log1] =======Finished VerifyCSOPartsReset test======== 
+2017-08-02 11:27:34,709 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:27:34,814 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:27:34,911 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:27:39,227 INFO  [Log1] =======Starting VerifyAddAdditionalParts test======== 
+2017-08-02 11:27:41,846 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:27:42,862 INFO  [Log1] Dealer selected 
+2017-08-02 11:27:44,886 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:27:45,060 INFO  [Log1] Parts number entered 
+2017-08-02 11:27:45,135 INFO  [Log1] quantity  entered 
+2017-08-02 11:27:54,261 INFO  [Log1] =======Finished VerifyAddAdditionalParts test======== 
+2017-08-02 11:33:30,588 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:33:30,723 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:33:30,830 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:33:34,996 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-02 11:33:37,942 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:33:39,574 INFO  [Log1] Dealer selected 
+2017-08-02 11:33:41,895 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:33:42,098 INFO  [Log1] Parts number entered 
+2017-08-02 11:33:42,181 INFO  [Log1] quantity  entered 
+2017-08-02 11:33:42,268 INFO  [Log1] Tab Clicked 
+2017-08-02 11:33:44,336 INFO  [Log1] Comments  entered 
+2017-08-02 11:33:44,470 INFO  [Log1] Order button clicked 
+2017-08-02 11:33:55,379 INFO  [Log1] =======Finished VerifyCSOpartsOrdering test======== 
+2017-08-02 11:34:08,456 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:34:08,552 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:34:08,644 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:34:12,687 INFO  [Log1] =======Starting Verifypartsinquiry test======== 
+2017-08-02 11:34:15,364 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:34:16,399 INFO  [Log1] Dealer selected 
+2017-08-02 11:34:18,424 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:34:18,605 INFO  [Log1] Parts number entered 
+2017-08-02 11:34:18,682 INFO  [Log1] quantity  entered 
+2017-08-02 11:34:18,754 INFO  [Log1] Tab Clicked 
+2017-08-02 11:34:20,839 INFO  [Log1] Comments  entered 
+2017-08-02 11:34:24,995 INFO  [Log1] Inquery button clicked 
+2017-08-02 11:34:34,043 INFO  [Log1] =======Finished Verifypartsinquiry test======== 
+2017-08-02 11:34:37,003 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:34:37,095 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:34:37,186 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:34:41,467 INFO  [Log1] =======Starting VerifyCSOPartsReset test======== 
+2017-08-02 11:34:43,034 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:34:44,096 INFO  [Log1] Dealer selected 
+2017-08-02 11:34:46,132 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:34:46,315 INFO  [Log1] Parts number entered 
+2017-08-02 11:34:46,391 INFO  [Log1] quantity  entered 
+2017-08-02 11:34:46,473 INFO  [Log1] Tab Clicked 
+2017-08-02 11:34:50,582 INFO  [Log1] Reset Button Clicked 
+2017-08-02 11:34:57,636 INFO  [Log1] =======Finished VerifyCSOPartsReset test======== 
+2017-08-02 11:35:00,701 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:35:00,797 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:35:00,899 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:35:04,665 INFO  [Log1] =======Starting VerifyAddAdditionalParts test======== 
+2017-08-02 11:35:08,536 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-02 11:35:09,586 INFO  [Log1] Dealer selected 
+2017-08-02 11:35:13,115 INFO  [Log1] CSOOrderLink Clicked 
+2017-08-02 11:35:13,299 INFO  [Log1] Parts number entered 
+2017-08-02 11:35:13,378 INFO  [Log1] quantity  entered 
+2017-08-02 11:35:22,552 INFO  [Log1] =======Finished VerifyAddAdditionalParts test======== 
+2017-08-02 11:44:38,158 INFO  [Log1] Driver Launched successfully 
+2017-08-02 11:44:38,266 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 11:44:38,362 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-02 11:44:42,546 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-02 11:44:43,593 INFO  [Log1] Select the Dealer Number 
+2017-08-02 11:44:47,513 INFO  [Log1] Click on Parts View Menu 
+2017-08-02 11:44:47,995 INFO  [Log1] Click on Today Sales Order  
+2017-08-02 11:44:51,275 INFO  [Log1] Found total number of rows 
+2017-08-02 11:44:51,275 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-02 11:44:53,275 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-02 11:44:53,275 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-02 17:15:17,496 INFO  [Log1] Driver Launched successfully 
+2017-08-02 17:15:17,718 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-02 17:15:17,817 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 11:17:17,864 INFO  [Log1] Driver Launched successfully 
+2017-08-09 11:17:18,016 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 11:17:18,139 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 11:29:28,794 INFO  [Log1] Driver Launched successfully 
+2017-08-09 11:29:28,932 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 11:29:29,028 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 11:35:56,823 INFO  [Log1] Driver Launched successfully 
+2017-08-09 11:35:56,941 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 11:35:57,038 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 14:59:33,962 INFO  [Log1] Driver Launched successfully 
+2017-08-09 15:46:46,132 INFO  [Log1] Driver Launched successfully 
+2017-08-09 15:46:46,729 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 15:46:46,901 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 16:19:34,858 INFO  [Log1] Driver Launched successfully 
+2017-08-09 16:19:35,064 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 16:19:35,191 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 16:21:53,202 INFO  [Log1] Driver Launched successfully 
+2017-08-09 16:21:53,318 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 16:21:53,432 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 16:22:14,787 INFO  [Log1] Driver Launched successfully 
+2017-08-09 16:22:14,877 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-09 16:22:14,969 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-09 16:22:18,787 INFO  [Log1] =======Starting VerifyServiceandPartsSalesBankOrder test======== 
+2017-08-09 16:22:21,850 INFO  [Log1] Parts Orderd menu Clicked 
+2017-08-09 16:22:23,684 INFO  [Log1] Dealer selected 
+2017-08-09 16:22:31,794 INFO  [Log1] Click On Service and Parts Sales Bank Link 
+2017-08-09 16:22:31,881 INFO  [Log1] Select parts to Order1 
+2017-08-09 16:22:31,968 INFO  [Log1] Select parts to Order2 
+2017-08-09 16:22:32,052 INFO  [Log1] Select parts to Order3 
+2017-08-09 16:22:32,136 INFO  [Log1] Select parts to Order4 
+2017-08-09 16:22:32,219 INFO  [Log1] Select parts to Order5 
+2017-08-09 16:22:32,336 INFO  [Log1] Click On Order Button 
+2017-08-09 16:23:00,734 INFO  [Log1] =======Finished VerifyServiceandPartsSalesBankOrder test======== 

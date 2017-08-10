@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Dealer selected ]]>
+    </line>
+    <line>
+      <![CDATA[Parts Availability Clicked]]>
+    </line>
+    <line>
+      <![CDATA[Parts number entered]]>
+    </line>
+    <line>
+      <![CDATA[quantity  entered]]>
+    </line>
+    <line>
+      <![CDATA[Perform Stock Order Inquiry checkbox  clicked]]>
+    </line>
+    <line>
+      <![CDATA[Submit button clicked ]]>
+    </line>
+    <line>
+      <![CDATA[Parts Availability SuccessfullyParts Availability Inquiry]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37785" started-at="2017-08-09T10:49:23Z" finished-at="2017-08-09T10:50:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37785" started-at="2017-08-09T10:49:23Z" finished-at="2017-08-09T10:50:01Z">
+      <class name="org.emdcs.test.partsavailability.PartsAvailability">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="setUp" is-config="true" duration-ms="187" started-at="2017-08-09T16:19:23Z" finished-at="2017-08-09T16:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="launchbrowser" is-config="true" duration-ms="15734" started-at="2017-08-09T16:19:23Z" finished-at="2017-08-09T16:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="verifyPartsAvailability" duration-ms="20670" started-at="2017-08-09T16:19:38Z" finished-at="2017-08-09T16:19:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Dealer selected ]]>
+            </line>
+            <line>
+              <![CDATA[Parts Availability Clicked]]>
+            </line>
+            <line>
+              <![CDATA[Parts number entered]]>
+            </line>
+            <line>
+              <![CDATA[quantity  entered]]>
+            </line>
+            <line>
+              <![CDATA[Perform Stock Order Inquiry checkbox  clicked]]>
+            </line>
+            <line>
+              <![CDATA[Submit button clicked ]]>
+            </line>
+            <line>
+              <![CDATA[Parts Availability SuccessfullyParts Availability Inquiry]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPartsAvailability -->
+        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="closebrowser" is-config="true" duration-ms="0" started-at="2017-08-09T16:19:59Z" finished-at="2017-08-09T16:19:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPartsAvailability status=SUCCESS method=PartsAvailability.verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8] output=Dealer selected ]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="exitbrowser" is-config="true" duration-ms="1361" started-at="2017-08-09T16:19:59Z" finished-at="2017-08-09T16:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitbrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="tearDown" is-config="true" duration-ms="632" started-at="2017-08-09T16:20:01Z" finished-at="2017-08-09T16:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

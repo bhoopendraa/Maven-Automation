@@ -23,20 +23,20 @@
       <![CDATA[Parts Availability SuccessfullyParts Availability Inquiry]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54902" started-at="2017-08-10T06:33:22Z" finished-at="2017-08-10T06:34:17Z">
+  <suite name="Suite" duration-ms="31322" started-at="2017-08-10T09:40:37Z" finished-at="2017-08-10T09:41:08Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="54902" started-at="2017-08-10T06:33:22Z" finished-at="2017-08-10T06:34:17Z">
+    <test name="Test" duration-ms="31322" started-at="2017-08-10T09:40:37Z" finished-at="2017-08-10T09:41:08Z">
       <class name="org.emdcs.test.partsavailability.PartsAvailability">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="setUp" is-config="true" duration-ms="317" started-at="2017-08-10T12:03:22Z" finished-at="2017-08-10T12:03:22Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="setUp" is-config="true" duration-ms="211" started-at="2017-08-10T15:10:36Z" finished-at="2017-08-10T15:10:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="launchbrowser" is-config="true" duration-ms="32095" started-at="2017-08-10T12:03:23Z" finished-at="2017-08-10T12:03:55Z">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="launchbrowser" is-config="true" duration-ms="12498" started-at="2017-08-10T15:10:37Z" finished-at="2017-08-10T15:10:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="verifyPartsAvailability" duration-ms="21131" started-at="2017-08-10T12:03:55Z" finished-at="2017-08-10T12:04:16Z">
+        <test-method status="PASS" signature="verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="verifyPartsAvailability" duration-ms="17960" started-at="2017-08-10T15:10:49Z" finished-at="2017-08-10T15:11:07Z">
           <reporter-output>
             <line>
               <![CDATA[Dealer selected ]]>
@@ -61,7 +61,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyPartsAvailability -->
-        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="closebrowser" is-config="true" duration-ms="1" started-at="2017-08-10T12:04:16Z" finished-at="2017-08-10T12:04:16Z">
+        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="closebrowser" is-config="true" duration-ms="0" started-at="2017-08-10T15:11:07Z" finished-at="2017-08-10T15:11:07Z">
           <params>
             <param index="0">
               <value>
@@ -72,15 +72,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="exitbrowser" is-config="true" duration-ms="1633" started-at="2017-08-10T12:04:16Z" finished-at="2017-08-10T12:04:17Z">
+        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="exitbrowser" is-config="true" duration-ms="854" started-at="2017-08-10T15:11:07Z" finished-at="2017-08-10T15:11:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitbrowser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="tearDown" is-config="true" duration-ms="578" started-at="2017-08-10T12:04:17Z" finished-at="2017-08-10T12:04:18Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="tearDown" is-config="true" duration-ms="348" started-at="2017-08-10T15:11:08Z" finished-at="2017-08-10T15:11:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

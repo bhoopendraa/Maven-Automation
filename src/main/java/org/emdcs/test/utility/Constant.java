@@ -9,7 +9,7 @@ public class Constant {
 	public static final String Username = "yrawat";
 
 	public static final String Password = "mAZDAUSA3";
-	public static final String PathChromedriver = "G:\\Bhoopendra Singh(QA)\\Central_QA\\Automation Repository\\EMDCS\\chromedriver\\chromedriver.exe";
+	public static final String PathChromedriver = "G:\\Bhoopendra Singh(QA)\\Central_QA\\Automation Repository\\EMDCS\\MavenProject\\chromedriver\\chromedriver.exe";
 	public static final String SSO_orderNumber = "SSO2017042500";
 	public static final String CSO_orderNumber = "CSO2017042500";
 	public static final String SalesBank_orderNumber = "SALES201704250";

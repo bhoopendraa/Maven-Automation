@@ -11,7 +11,7 @@ import core.*;
 
 public class VerifytodaySalesOrders extends Launchbrowser {
 	
-	@Test(priority = 1)
+	@Test()
 	public void todaySalesOrders() throws Exception {
 		test = extent.createTest("PartsviewmenuTest",
 				"This test case will check the today Sales Orders");

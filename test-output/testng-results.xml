@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
       <![CDATA[Dealer selected ]]>
@@ -23,20 +23,20 @@
       <![CDATA[Parts Availability SuccessfullyParts Availability Inquiry]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="49625" started-at="2017-08-11T05:36:50Z" finished-at="2017-08-11T05:37:39Z">
+  <suite name="Suite" duration-ms="79934" started-at="2017-08-17T11:22:15Z" finished-at="2017-08-17T11:23:35Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="49625" started-at="2017-08-11T05:36:50Z" finished-at="2017-08-11T05:37:39Z">
+    <test name="Test" duration-ms="79934" started-at="2017-08-17T11:22:15Z" finished-at="2017-08-17T11:23:35Z">
       <class name="org.emdcs.test.partsavailability.PartsAvailability">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="setUp" is-config="true" duration-ms="210" started-at="2017-08-11T11:06:50Z" finished-at="2017-08-11T11:06:50Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="setUp" is-config="true" duration-ms="212" started-at="2017-08-17T16:52:15Z" finished-at="2017-08-17T16:52:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="launchbrowser" is-config="true" duration-ms="12966" started-at="2017-08-11T11:06:50Z" finished-at="2017-08-11T11:07:03Z">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="launchbrowser" is-config="true" duration-ms="41981" started-at="2017-08-17T16:52:15Z" finished-at="2017-08-17T16:52:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="verifyPartsAvailability" duration-ms="18072" started-at="2017-08-11T11:07:03Z" finished-at="2017-08-11T11:07:21Z">
+        <test-method status="PASS" signature="verifyPartsAvailability()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="verifyPartsAvailability" duration-ms="35967" started-at="2017-08-17T16:52:57Z" finished-at="2017-08-17T16:53:33Z">
           <reporter-output>
             <line>
               <![CDATA[Dealer selected ]]>
@@ -61,47 +61,26 @@
             </line>
           </reporter-output>
         </test-method> <!-- verifyPartsAvailability -->
-        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="closebrowser" is-config="true" duration-ms="0" started-at="2017-08-11T11:07:21Z" finished-at="2017-08-11T11:07:21Z">
+        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="closebrowser" is-config="true" duration-ms="1" started-at="2017-08-17T16:53:33Z" finished-at="2017-08-17T16:53:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyPartsAvailability status=SUCCESS method=PartsAvailability.verifyPartsAvailability()[pri:1, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04] output=Dealer selected ]]]>
+                <![CDATA[[TestResult name=verifyPartsAvailability status=SUCCESS method=PartsAvailability.verifyPartsAvailability()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8] output=Dealer selected ]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="exitbrowser" is-config="true" duration-ms="1868" started-at="2017-08-11T11:07:38Z" finished-at="2017-08-11T11:07:39Z">
+        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="exitbrowser" is-config="true" duration-ms="1970" started-at="2017-08-17T16:53:33Z" finished-at="2017-08-17T16:53:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitbrowser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@3abbfa04]" name="tearDown" is-config="true" duration-ms="350" started-at="2017-08-11T11:07:39Z" finished-at="2017-08-11T11:07:40Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsavailability.PartsAvailability@239963d8]" name="tearDown" is-config="true" duration-ms="633" started-at="2017-08-17T16:53:35Z" finished-at="2017-08-17T16:53:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
-      <class name="org.emdcs.test.partsview.VerifyInvoiceByPartNumber">
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsview.VerifyInvoiceByPartNumber@57fffcd7]" name="launchbrowser" is-config="true" duration-ms="6720" started-at="2017-08-11T11:07:21Z" finished-at="2017-08-11T11:07:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="invoiceByPartNumber()[pri:7, instance:org.emdcs.test.partsview.VerifyInvoiceByPartNumber@57fffcd7]" name="invoiceByPartNumber" duration-ms="9986" started-at="2017-08-11T11:07:28Z" finished-at="2017-08-11T11:07:38Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- invoiceByPartNumber -->
-        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsview.VerifyInvoiceByPartNumber@57fffcd7]" name="closebrowser" is-config="true" duration-ms="1" started-at="2017-08-11T11:07:38Z" finished-at="2017-08-11T11:07:38Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=invoiceByPartNumber status=SUCCESS method=VerifyInvoiceByPartNumber.invoiceByPartNumber()[pri:7, instance:org.emdcs.test.partsview.VerifyInvoiceByPartNumber@57fffcd7] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closebrowser -->
-      </class> <!-- org.emdcs.test.partsview.VerifyInvoiceByPartNumber -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

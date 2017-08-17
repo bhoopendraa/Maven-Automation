@@ -302,3 +302,610 @@
 2017-08-11 11:07:36,024 INFO  [Log1] No data was found base on your request parameters. 
 2017-08-11 11:07:38,085 INFO  [Log1] SalesOrders By Invoice Number view successfully 
 2017-08-11 11:07:38,085 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 16:37:34,983 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:37:35,158 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:37:35,290 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:37:38,952 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:37:40,543 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:37:44,079 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:37:45,587 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 16:37:45,687 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 16:37:45,687 INFO  [Log1] Select the Ending Date 
+2017-08-11 16:37:45,839 INFO  [Log1] Click the Submit Button 
+2017-08-11 16:37:57,278 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 16:37:57,278 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 16:39:15,363 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:39:15,480 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:39:15,601 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:39:18,987 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:39:20,392 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:39:23,971 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:39:25,525 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 16:39:25,626 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 16:39:25,626 INFO  [Log1] Select the Ending Date 
+2017-08-11 16:39:25,758 INFO  [Log1] Click the Submit Button 
+2017-08-11 16:39:29,758 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 16:39:29,758 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 16:42:01,990 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:42:02,122 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:42:02,225 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:42:28,236 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:42:28,335 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:42:28,428 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:42:32,014 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 16:42:33,582 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:42:36,552 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:42:38,110 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 16:42:38,207 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 16:42:38,337 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 16:42:39,603 INFO  [Log1] Found total number of rows 
+2017-08-11 16:42:39,604 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:42:41,679 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 16:42:41,679 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 16:42:44,226 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:42:44,332 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:42:44,430 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:42:49,657 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 16:42:51,842 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:42:55,409 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:42:56,965 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 16:42:59,270 INFO  [Log1] Found total number of rows 
+2017-08-11 16:42:59,270 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:43:01,276 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 16:43:01,276 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 16:43:03,274 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:43:03,380 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:43:03,476 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:43:04,176 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:43:16,484 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:43:16,590 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:43:16,691 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:43:20,036 INFO  [Log1] =======Starting trackShipmentByOrder test======== 
+2017-08-11 16:43:21,445 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:43:24,484 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:43:25,591 INFO  [Log1] Click on Track Shipment By Order 
+2017-08-11 16:43:25,681 INFO  [Log1] Enter the Sales Order for track Shipment 
+2017-08-11 16:43:27,664 INFO  [Log1] click on Track Shipment By Order submit button 
+2017-08-11 16:45:51,132 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:45:51,244 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:45:51,339 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:45:54,760 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:45:55,800 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:45:58,799 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:46:00,282 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 16:46:00,386 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 16:46:00,386 INFO  [Log1] Select the Ending Date 
+2017-08-11 16:46:00,509 INFO  [Log1] Click the Submit Button 
+2017-08-11 16:46:05,740 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 16:46:05,740 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 16:46:26,997 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:46:27,125 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:46:27,237 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:46:54,041 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:46:54,143 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:46:54,238 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:47:00,024 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 16:47:00,777 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:47:03,971 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:47:05,241 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 16:47:05,344 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 16:47:05,470 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 16:47:06,747 INFO  [Log1] Found total number of rows 
+2017-08-11 16:47:06,747 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:47:08,793 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 16:47:08,793 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 16:47:13,844 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:47:13,954 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:47:14,051 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:47:19,695 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 16:47:21,234 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:47:24,953 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:47:26,247 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 16:47:27,882 INFO  [Log1] Found total number of rows 
+2017-08-11 16:47:27,882 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:47:29,907 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 16:47:29,907 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 16:47:32,754 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:47:32,851 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:47:32,946 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:47:36,794 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:47:38,105 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:47:41,532 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:47:42,632 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 16:47:42,740 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 16:47:42,740 INFO  [Log1] Select the Ending Date 
+2017-08-11 16:47:45,427 INFO  [Log1] Click the Submit Button 
+2017-08-11 16:47:47,526 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 16:47:47,526 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 16:51:33,787 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:51:33,915 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:51:34,040 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:51:59,371 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:51:59,473 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:51:59,566 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:52:03,118 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 16:52:03,697 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:52:07,248 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:52:08,779 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 16:52:08,883 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 16:52:09,010 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 16:52:10,251 INFO  [Log1] Found total number of rows 
+2017-08-11 16:52:10,251 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:52:12,307 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 16:52:12,307 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 16:52:13,966 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:52:14,058 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:52:14,154 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:52:17,494 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 16:52:17,973 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:52:20,966 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:52:23,996 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 16:52:27,179 INFO  [Log1] Found total number of rows 
+2017-08-11 16:52:27,189 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 16:52:29,197 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 16:52:29,197 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 16:52:30,926 INFO  [Log1] Driver Launched successfully 
+2017-08-11 16:52:31,018 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 16:52:31,113 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 16:52:34,540 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 16:52:35,812 INFO  [Log1] Select the Dealer Number 
+2017-08-11 16:52:38,818 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 16:52:40,058 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 16:52:40,159 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 16:52:40,159 INFO  [Log1] Select the Ending Date 
+2017-08-11 16:52:42,826 INFO  [Log1] Click the Submit Button 
+2017-08-11 16:52:44,947 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 16:52:44,947 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 17:08:08,484 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:08:08,611 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:08:08,742 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:08:34,409 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:08:34,515 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:08:34,609 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:08:38,143 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 17:08:38,727 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:08:42,235 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:08:43,744 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 17:08:43,844 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 17:08:43,965 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 17:08:45,219 INFO  [Log1] Found total number of rows 
+2017-08-11 17:08:45,219 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:08:47,279 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 17:08:47,279 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 17:08:50,358 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:08:50,448 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:08:50,545 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:08:53,869 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 17:08:54,362 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:08:57,875 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:08:59,160 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 17:09:01,491 INFO  [Log1] Found total number of rows 
+2017-08-11 17:09:01,491 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:09:03,515 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 17:09:03,515 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 17:09:05,578 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:09:05,673 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:09:05,771 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:09:09,613 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 17:09:11,086 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:09:14,082 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:09:15,321 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 17:09:15,419 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 17:09:15,419 INFO  [Log1] Select the Ending Date 
+2017-08-11 17:09:18,126 INFO  [Log1] Click the Submit Button 
+2017-08-11 17:09:20,226 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 17:09:20,226 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 17:11:13,612 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:11:13,749 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:11:13,874 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:11:17,274 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 17:11:18,342 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:11:21,927 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:11:23,484 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 17:11:24,719 INFO  [Log1] Found total number of rows 
+2017-08-11 17:11:24,719 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:11:26,744 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 17:11:26,744 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 17:11:58,644 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:11:58,756 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:11:58,851 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:12:02,219 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-11 17:12:03,498 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:12:06,777 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:12:09,601 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-11 17:12:09,714 INFO  [Log1] Select the Beginnig Date 
+2017-08-11 17:12:09,714 INFO  [Log1] Select the Ending Date 
+2017-08-11 17:12:09,856 INFO  [Log1] Click the Submit Button 
+2017-08-11 17:12:13,906 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-11 17:12:13,906 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-11 17:12:34,439 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:12:34,573 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:12:34,697 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:12:38,082 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 17:12:39,121 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:12:42,143 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:12:43,405 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 17:12:43,517 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 17:12:43,651 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 17:12:44,920 INFO  [Log1] Found total number of rows 
+2017-08-11 17:12:44,920 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:12:46,975 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 17:12:46,975 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 17:14:24,151 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:14:24,269 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:14:24,396 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:14:49,942 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:14:50,037 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:14:50,135 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:14:53,701 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-11 17:14:54,436 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:14:58,142 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:14:59,697 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-11 17:14:59,806 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-11 17:14:59,951 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-11 17:15:01,232 INFO  [Log1] Found total number of rows 
+2017-08-11 17:15:01,232 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:15:03,299 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-11 17:15:03,299 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-11 17:15:06,084 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:15:06,165 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:15:06,246 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:15:09,597 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-11 17:15:10,077 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:15:13,050 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:15:15,702 INFO  [Log1] Click on Today Sales Order  
+2017-08-11 17:15:16,973 INFO  [Log1] Found total number of rows 
+2017-08-11 17:15:16,973 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-11 17:15:18,991 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-11 17:15:18,991 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-11 17:15:20,391 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:15:20,544 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:15:20,664 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:15:21,347 INFO  [Log1] =======Starting custPONumber test======== 
+2017-08-11 17:15:33,266 INFO  [Log1] Driver Launched successfully 
+2017-08-11 17:15:33,378 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-11 17:15:33,481 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-11 17:15:36,880 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-11 17:15:37,929 INFO  [Log1] Select the Dealer Number 
+2017-08-11 17:15:40,968 INFO  [Log1] Click on Parts View Menu 
+2017-08-11 17:15:42,238 INFO  [Log1] Click on Sales Order By Invoice Number 
+2017-08-11 17:15:42,339 INFO  [Log1] Enter the Invoice Number 
+2017-08-11 17:15:44,531 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-11 17:15:44,607 INFO  [Log1] Found total number of rows 
+2017-08-11 17:15:44,608 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:08:27,876 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:08:28,155 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:08:28,258 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:09:00,350 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:09:00,448 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:09:00,540 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:09:04,351 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-14 12:09:06,102 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:09:09,720 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:09:11,213 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-14 12:09:11,337 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-14 12:09:11,555 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-14 12:09:13,326 INFO  [Log1] Found total number of rows 
+2017-08-14 12:09:13,326 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:09:15,425 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:09:15,425 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-14 12:09:19,382 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:09:19,473 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:09:19,579 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:09:22,883 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-14 12:09:24,155 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:09:27,371 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:09:28,383 INFO  [Log1] Click on Today Sales Order  
+2017-08-14 12:09:30,996 INFO  [Log1] Found total number of rows 
+2017-08-14 12:09:30,996 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:09:33,007 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:09:33,007 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-14 12:09:35,940 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:09:36,038 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:09:36,132 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:09:39,433 INFO  [Log1] =======Starting custPONumber test======== 
+2017-08-14 12:09:40,482 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:09:43,582 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:09:44,842 INFO  [Log1] Click on Sales Order By Cust PO Number 
+2017-08-14 12:09:44,997 INFO  [Log1] Enter the Cust PO Number 
+2017-08-14 12:09:46,155 INFO  [Log1] click on Cust PO Number submit button 
+2017-08-14 12:09:46,237 INFO  [Log1] Found total number of rows 
+2017-08-14 12:09:46,237 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:11:07,378 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:11:07,517 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:11:07,668 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:11:11,099 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-14 12:11:13,358 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:11:16,339 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:11:17,642 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-14 12:11:17,750 INFO  [Log1] Select the Beginnig Date 
+2017-08-14 12:11:17,750 INFO  [Log1] Select the Ending Date 
+2017-08-14 12:11:17,886 INFO  [Log1] Click the Submit Button 
+2017-08-14 12:11:22,880 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-14 12:11:22,880 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-14 12:12:19,085 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:12:19,237 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:12:19,372 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:12:22,689 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-08-14 12:12:23,724 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:12:26,733 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:12:27,829 INFO  [Log1] Click on Track Shipment By Date  
+2017-08-14 12:12:27,933 INFO  [Log1] Select the Beginnig Date 
+2017-08-14 12:12:27,933 INFO  [Log1] Select the Ending Date 
+2017-08-14 12:12:28,059 INFO  [Log1] Click the Submit Button 
+2017-08-14 12:12:31,319 INFO  [Log1] Track Shipment By Date view successfully 
+2017-08-14 12:12:31,319 INFO  [Log1] =======Finished Track Shipment By Date view test======== 
+2017-08-14 12:13:14,770 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:13:14,918 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:13:15,017 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:13:18,350 INFO  [Log1] =======Starting custPONumber test======== 
+2017-08-14 12:13:19,390 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:13:22,417 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:13:23,422 INFO  [Log1] Click on Sales Order By Cust PO Number 
+2017-08-14 12:13:23,547 INFO  [Log1] Enter the Cust PO Number 
+2017-08-14 12:13:23,669 INFO  [Log1] click on Cust PO Number submit button 
+2017-08-14 12:13:24,924 INFO  [Log1] Found total number of rows 
+2017-08-14 12:13:24,924 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:13:26,983 INFO  [Log1] SalesOrders By Cust PO Number view successfully 
+2017-08-14 12:13:26,983 INFO  [Log1] =======Finished SalesOrders By Cust PO Number view test======== 
+2017-08-14 12:13:28,155 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:13:28,250 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:13:28,357 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:13:31,683 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:13:32,717 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:13:35,712 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:13:36,930 INFO  [Log1] Click on Sales Order By Invoice Number 
+2017-08-14 12:13:37,022 INFO  [Log1] Enter the Invoice Number 
+2017-08-14 12:13:37,145 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:13:39,281 INFO  [Log1] Found total number of rows 
+2017-08-14 12:13:39,281 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:13:41,314 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:13:41,314 INFO  [Log1] =======Finished invoiceNumber view test======== 
+2017-08-14 12:13:42,635 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:13:42,732 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:13:42,827 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:13:46,136 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:13:47,196 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:13:50,245 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:13:51,582 INFO  [Log1] Click on Sales Order By MNAO Order Number 
+2017-08-14 12:13:51,689 INFO  [Log1] Enter the MNAO Order Number 
+2017-08-14 12:13:51,809 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:13:51,809 INFO  [Log1] SalesOrders By MNAO Order Number view successfully 
+2017-08-14 12:13:51,809 INFO  [Log1] =======Finished mnaoOrderNumber view test======== 
+2017-08-14 12:13:54,786 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:13:54,884 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:13:54,980 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:13:58,328 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:13:58,819 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:14:01,841 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:14:02,529 INFO  [Log1] Click on SalesOrdersByOrderType  
+2017-08-14 12:14:02,655 INFO  [Log1] Slect the Order Type  
+2017-08-14 12:14:02,764 INFO  [Log1] Select the Sales Order Status 
+2017-08-14 12:14:02,840 INFO  [Log1] Select the Beginnig Date 
+2017-08-14 12:14:02,964 INFO  [Log1] Click the Submit Button 
+2017-08-14 12:14:04,291 INFO  [Log1] Found total number of rows 
+2017-08-14 12:14:04,291 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:14:05,350 INFO  [Log1] SalesOrdersByOrderType view successfully 
+2017-08-14 12:14:05,350 INFO  [Log1] =======Finished byOrderType view test======== 
+2017-08-14 12:14:06,649 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:14:06,744 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:14:06,840 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:14:10,227 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:14:10,697 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:14:13,210 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:14:13,876 INFO  [Log1] Click on Sales Order By Part Number 
+2017-08-14 12:14:13,975 INFO  [Log1] Enter the Part Number 
+2017-08-14 12:14:14,094 INFO  [Log1] click on Part Number submit button 
+2017-08-14 12:14:15,347 INFO  [Log1] Found total number of rows 
+2017-08-14 12:14:15,348 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:14:17,408 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:14:17,408 INFO  [Log1] =======Finished partNumber view test======== 
+2017-08-14 12:14:18,949 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:14:19,027 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:14:19,111 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:14:22,400 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-14 12:14:23,449 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:14:26,507 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:14:27,730 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-14 12:14:27,840 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-14 12:14:27,958 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-14 12:14:29,216 INFO  [Log1] Found total number of rows 
+2017-08-14 12:14:29,216 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:14:31,296 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:14:31,296 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-14 12:14:32,741 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:14:32,833 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:14:32,929 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:14:36,243 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-14 12:14:36,724 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:14:39,735 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:14:40,771 INFO  [Log1] Click on Today Sales Order  
+2017-08-14 12:14:42,247 INFO  [Log1] Found total number of rows 
+2017-08-14 12:14:42,247 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:14:44,271 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:14:44,271 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-14 12:14:45,611 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:14:45,708 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:14:45,804 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:38:28,103 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:38:28,225 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:38:28,354 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:38:31,957 INFO  [Log1] =======Starting custPONumber test======== 
+2017-08-14 12:38:33,223 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:38:36,260 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:38:37,515 INFO  [Log1] Click on Sales Order By Cust PO Number 
+2017-08-14 12:38:37,642 INFO  [Log1] Enter the Cust PO Number 
+2017-08-14 12:38:37,767 INFO  [Log1] click on Cust PO Number submit button 
+2017-08-14 12:38:39,060 INFO  [Log1] Found total number of rows 
+2017-08-14 12:38:39,060 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:38:41,111 INFO  [Log1] SalesOrders By Cust PO Number view successfully 
+2017-08-14 12:38:41,111 INFO  [Log1] =======Finished SalesOrders By Cust PO Number view test======== 
+2017-08-14 12:38:43,149 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:38:43,245 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:38:43,342 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:38:46,639 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:38:47,372 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:38:50,370 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:38:51,591 INFO  [Log1] Click on Sales Order By Invoice Number 
+2017-08-14 12:38:51,699 INFO  [Log1] Enter the Invoice Number 
+2017-08-14 12:38:51,818 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:38:53,690 INFO  [Log1] Found total number of rows 
+2017-08-14 12:38:53,691 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:38:55,730 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:38:55,730 INFO  [Log1] =======Finished invoiceNumber view test======== 
+2017-08-14 12:38:57,554 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:38:57,649 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:38:57,748 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:39:01,074 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:39:02,116 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:39:05,293 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:39:06,770 INFO  [Log1] Click on Sales Order By MNAO Order Number 
+2017-08-14 12:39:06,864 INFO  [Log1] Enter the MNAO Order Number 
+2017-08-14 12:39:06,999 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:39:06,999 INFO  [Log1] SalesOrders By MNAO Order Number view successfully 
+2017-08-14 12:39:06,999 INFO  [Log1] =======Finished mnaoOrderNumber view test======== 
+2017-08-14 12:39:08,211 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:39:08,301 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:39:08,399 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:39:11,460 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:39:12,193 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:39:14,912 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:39:15,616 INFO  [Log1] Click on SalesOrdersByOrderType  
+2017-08-14 12:39:15,744 INFO  [Log1] Slect the Order Type  
+2017-08-14 12:39:15,860 INFO  [Log1] Select the Sales Order Status 
+2017-08-14 12:39:15,945 INFO  [Log1] Select the Beginnig Date 
+2017-08-14 12:39:16,028 INFO  [Log1] Click the Submit Button 
+2017-08-14 12:39:17,284 INFO  [Log1] Found total number of rows 
+2017-08-14 12:39:17,284 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:39:18,341 INFO  [Log1] SalesOrdersByOrderType view successfully 
+2017-08-14 12:39:18,341 INFO  [Log1] =======Finished byOrderType view test======== 
+2017-08-14 12:39:19,556 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:39:19,656 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:39:19,754 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:39:23,032 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:39:23,746 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:39:26,167 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:39:26,847 INFO  [Log1] Click on Sales Order By Part Number 
+2017-08-14 12:39:26,946 INFO  [Log1] Enter the Part Number 
+2017-08-14 12:39:27,069 INFO  [Log1] click on Part Number submit button 
+2017-08-14 12:39:28,277 INFO  [Log1] Found total number of rows 
+2017-08-14 12:39:28,277 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:39:30,323 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:39:30,324 INFO  [Log1] =======Finished partNumber view test======== 
+2017-08-14 12:39:31,719 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:39:31,807 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:39:31,894 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:39:35,164 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-14 12:39:36,439 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:39:39,446 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:39:40,678 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-14 12:39:40,766 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-14 12:39:40,880 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-14 12:39:42,116 INFO  [Log1] Found total number of rows 
+2017-08-14 12:39:42,116 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:39:44,165 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:39:44,165 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-14 12:39:45,513 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:39:45,592 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:39:45,673 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:39:48,961 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-14 12:39:49,656 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:39:52,640 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:39:53,654 INFO  [Log1] Click on Today Sales Order  
+2017-08-14 12:39:54,904 INFO  [Log1] Found total number of rows 
+2017-08-14 12:39:54,904 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:39:56,904 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:39:56,905 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-14 12:39:58,270 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:39:58,374 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:39:58,471 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:46:11,214 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:46:11,329 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:46:11,436 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:47:32,796 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:47:32,954 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:47:33,083 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:47:36,452 INFO  [Log1] =======Starting custPONumber test======== 
+2017-08-14 12:47:37,487 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:47:40,501 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:47:41,722 INFO  [Log1] Click on Sales Order By Cust PO Number 
+2017-08-14 12:47:41,850 INFO  [Log1] Enter the Cust PO Number 
+2017-08-14 12:47:41,975 INFO  [Log1] click on Cust PO Number submit button 
+2017-08-14 12:47:43,251 INFO  [Log1] Found total number of rows 
+2017-08-14 12:47:43,252 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:47:45,302 INFO  [Log1] SalesOrders By Cust PO Number view successfully 
+2017-08-14 12:47:45,303 INFO  [Log1] =======Finished SalesOrders By Cust PO Number view test======== 
+2017-08-14 12:47:46,957 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:47:47,051 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:47:47,153 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:47:50,434 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:47:51,166 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:47:54,164 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:47:55,534 INFO  [Log1] Click on Sales Order By Invoice Number 
+2017-08-14 12:47:55,633 INFO  [Log1] Enter the Invoice Number 
+2017-08-14 12:47:55,754 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:47:56,993 INFO  [Log1] Found total number of rows 
+2017-08-14 12:47:56,993 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:47:59,047 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:47:59,047 INFO  [Log1] =======Finished invoiceNumber view test======== 
+2017-08-14 12:48:00,399 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:48:00,497 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:48:00,591 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:48:03,878 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:48:05,138 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:48:08,145 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:48:09,365 INFO  [Log1] Click on Sales Order By MNAO Order Number 
+2017-08-14 12:48:09,465 INFO  [Log1] Enter the MNAO Order Number 
+2017-08-14 12:48:09,593 INFO  [Log1] click on MNAO Order Number submit button 
+2017-08-14 12:48:09,593 INFO  [Log1] SalesOrders By MNAO Order Number view successfully 
+2017-08-14 12:48:09,593 INFO  [Log1] =======Finished mnaoOrderNumber view test======== 
+2017-08-14 12:48:10,938 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:48:11,029 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:48:11,125 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:48:11,856 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:48:25,140 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:48:25,235 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:48:25,332 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:48:29,163 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-08-14 12:48:30,433 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:48:33,465 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:48:34,710 INFO  [Log1] Click on Sales Order By Part Number 
+2017-08-14 12:48:34,815 INFO  [Log1] Enter the Part Number 
+2017-08-14 12:48:34,936 INFO  [Log1] click on Part Number submit button 
+2017-08-14 12:48:36,220 INFO  [Log1] Found total number of rows 
+2017-08-14 12:48:36,220 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:48:38,259 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:48:38,260 INFO  [Log1] =======Finished partNumber view test======== 
+2017-08-14 12:48:39,756 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:48:39,852 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:48:39,944 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:48:43,489 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-08-14 12:48:44,787 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:48:47,790 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:48:49,739 INFO  [Log1] Click on Invoice By Part Number 
+2017-08-14 12:48:49,826 INFO  [Log1] Enter the Invoice By Part Number 
+2017-08-14 12:48:49,940 INFO  [Log1] click on Invoice By Part Number submit button 
+2017-08-14 12:48:51,201 INFO  [Log1] Found total number of rows 
+2017-08-14 12:48:51,201 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:48:53,245 INFO  [Log1] SalesOrders By Invoice Number view successfully 
+2017-08-14 12:48:53,246 INFO  [Log1] =======Finished Sales Orders By Invoice Number view test======== 
+2017-08-14 12:48:54,542 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:48:54,634 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:48:54,727 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:48:58,270 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-14 12:48:59,819 INFO  [Log1] Select the Dealer Number 
+2017-08-14 12:49:03,496 INFO  [Log1] Click on Parts View Menu 
+2017-08-14 12:49:04,763 INFO  [Log1] Click on Today Sales Order  
+2017-08-14 12:49:06,000 INFO  [Log1] Found total number of rows 
+2017-08-14 12:49:06,000 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-14 12:49:08,001 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-14 12:49:08,001 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-14 12:49:10,680 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:49:10,801 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:49:10,898 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-14 12:49:34,327 INFO  [Log1] Driver Launched successfully 
+2017-08-14 12:49:34,422 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-14 12:49:34,519 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-17 16:52:47,173 INFO  [Log1] Driver Launched successfully 
+2017-08-17 16:52:47,332 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-17 16:52:47,439 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 

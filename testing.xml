@@ -3,8 +3,17 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
- <class name="org.emdcs.test.partsavailability.PartsAvailability"/>
+
+ <!-- <class name="org.emdcs.test.partsview.VerifyViewSalesOrdersByCustPoNumber"/>
+ <class name="org.emdcs.test.partsview.VerifyViewSalesOrdersByInvoiceNumber"/>
+ <class name="org.emdcs.test.partsview.VerifyViewSalesOrdersByMNAOOrderNumber"/>
+ <class name="org.emdcs.test.partsview.VerifyViewSalesOrdersByOrderType"/>
+ <class name="org.emdcs.test.partsview.VerifyViewSalesOrdersByPartsnumber"/>
+ 
  <class name="org.emdcs.test.partsview.VerifyInvoiceByPartNumber"/>
+ <class name="org.emdcs.test.partsview.VerifytodaySalesOrders"/> -->
+ <class name="org.emdcs.test.partsavailability.PartsAvailability"/>
+<!--  <class name="org.emdcs.test.partsreturn.PartsReturnRequestTest"/> -->
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -16,7 +16,7 @@ import core.Launchbrowser;
 public class PartsAvailability extends Launchbrowser{
 	String actual_res=null;
 	public static String numberAsString;
-	 @Test(priority=1)
+	 @Test()
 	  public void verifyPartsAvailability() throws Exception {
 		 test=extent.createTest("PartsAvailability Test:verifyPartsAvailability","This test case will check the  Parts Availability");
 		 PartsAvailabilityModule data1 = new PartsAvailabilityModule();

@@ -12,7 +12,7 @@ import core.Launchbrowser;
 
 public class VerifyInvoiceByPartNumber extends Launchbrowser{
 
-	@Test(priority = 7)
+	@Test()
 		public void invoiceByPartNumber() throws Exception {
 			test = extent.createTest("InvoiceByPartNumber",
 					"This test case will check the CSO  Parts Order");

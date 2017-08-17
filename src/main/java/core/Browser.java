@@ -27,7 +27,7 @@ public class Browser {
 
 		if (browser.equalsIgnoreCase("Chrome")) {
 			System.setProperty("webdriver.chrome.driver",
-					"G:\\Bhoopendra Singh(QA)\\Central_QA\\Automation Repository\\EMDCS\\MavenProject\\chromedriver\\chromedriver.exe");
+					"chromedriver\\chromedriver.exe");
 			driver = new ChromeDriver();
 		}
 		if (browser.equalsIgnoreCase("FF")) {

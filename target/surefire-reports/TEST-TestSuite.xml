@@ -1,160 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="TestSuite" time="17.879" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="TestSuite" time="4.553" errors="0" skipped="0">
   <properties>
-    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
-    <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="LOGONSERVER" value="\\NOIDC03"/>
-    <property name="ProgramData" value="C:\ProgramData"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre"/>
-    <property name="TITLE" value="Tomcat"/>
-    <property name="=G:" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin"/>
-    <property name="NODE_NAME" value="master"/>
-    <property name="CATALINA_HOME" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22"/>
-    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
-    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
-    <property name="=::" value="::\"/>
-    <property name="USERDOMAIN" value="INTERRAIT"/>
-    <property name="sun.os.patch.level" value="Service Pack 1"/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
-    <property name="JAVA_OPTS" value=" &quot;-Djdk.tls.ephemeralDHKeySize=2048&quot; -Djava.protocol.handler.pkgs=org.apache.catalina.webresources"/>
-    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
-    <property name="java.version" value="1.8.0_131"/>
-    <property name="JOB_NAME" value="eMDCS"/>
-    <property name="COMPUTERNAME" value="INHD0883"/>
-    <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
-    <property name="EXECUTABLE" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin\catalina.bat"/>
-    <property name="ANDROID_HOME" value="C:\Users\Bhoopendra\AppData\Local\Android\sdk"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
-    <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="user.name" value="Bhoopendra"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="windir" value="C:\Windows"/>
-    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 42 Stepping 7, GenuineIntel"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="LOCALAPPDATA" value="C:\Users\Bhoopendra\AppData\Local"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/eMDCS/17/display/redirect?page=changes"/>
-    <property name="user.timezone" value="Asia/Calcutta"/>
-    <property name="user.script" value=""/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
-    <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="BUILD_TAG" value="jenkins-eMDCS-17"/>
-    <property name="windows_tracing_flags" value="3"/>
-    <property name="file.encoding" value="Cp1252"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0 G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\webapps\jenkins\WEB-INF\lib\remoting-3.7.jar C:\Users\Bhoopendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.11.jar C:\Users\Bhoopendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar 56676"/>
-    <property name="JENKINS_SERVER_COOKIE" value="66f7d1af68b76dbd"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
-    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_131/bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\nodejs\;C:\Users\Bhoopendra\AppData\Local\Android\sdk\tools;C:\Users\Bhoopendra\AppData\Local\Android\sdk\platform-tools;\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Git\cmd;G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin;;C:\Program Files (x86)\Microsoft VS Code\bin"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="G:\Bhoopendra Singh(QA)\Central_QA\Automation Repository\EMDCS\MavenProject"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\BHOOPE~1\AppData\Local\Temp\"/>
-    <property name="APPDATA" value="C:\Users\Bhoopendra\AppData\Roaming"/>
-    <property name="user.language" value="en"/>
-    <property name="CATALINA_TMPDIR" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\temp"/>
     <property name="line.separator" value="
 "/>
-    <property name="ACTION" value="start"/>
-    <property name="M2_HOME" value="G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
-    <property name="=C:" value="C:\"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="sun.desktop" value="windows"/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#17"/>
-    <property name="OS" value="Windows_NT"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="CATALINA_BASE" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22"/>
-    <property name="HUDSON_SERVER_COOKIE" value="66f7d1af68b76dbd"/>
-    <property name="JRE_HOME" value="C:\Program Files\Java\jdk1.8.0_131"/>
-    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jdk1.8.0_131\bin\java.exe&quot;"/>
-    <property name="_RUNJAVA" value="&quot;C:\Program Files\Java\jdk1.8.0_131\bin\java.exe&quot;"/>
-    <property name="MAVEN_HOME" value="G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
-    <property name="SESSIONNAME" value="Console"/>
-    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
-    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="maven3.interceptor.common" value="C:\Users\Bhoopendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.11.jar"/>
-    <property name="CLASSPATH" value=""/>
-    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\conf\logging.properties&quot;"/>
-    <property name="HOMEPATH" value="\Users\Bhoopendra"/>
-    <property name="os.name" value="Windows 7"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="FP_NO_HOST_CHECK" value="NO"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="17"/>
-    <property name="maven3.interceptor" value="C:\Users\Bhoopendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.11.jar"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0/bin;C:\Program Files\Java\jdk1.8.0_131/bin;C:\Program Files\Java\jdk1.8.0_131/bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\nodejs\;C:\Users\Bhoopendra\AppData\Local\Android\sdk\tools;C:\Users\Bhoopendra\AppData\Local\Android\sdk\platform-tools;\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Git\cmd;G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin;;C:\Program Files (x86)\Microsoft VS Code\bin;."/>
-    <property name="HOMEDRIVE" value="C:"/>
-    <property name="POM_GROUPID" value="1"/>
-    <property name="POM_ARTIFACTID" value="MavenProject"/>
-    <property name="java.class.version" value="52.0"/>
-    <property name="JSSE_OPTS" value="&quot;-Djdk.tls.ephemeralDHKeySize=2048&quot;"/>
-    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
-    <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_131\bin\jdb.exe&quot;"/>
-    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/eMDCS/17/display/redirect"/>
-    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
-    <property name="MpConfig_ProductPath" value="C:\Program Files\Windows Defender"/>
-    <property name="JENKINS_HOME" value="C:\Users\Bhoopendra\.jenkins"/>
-    <property name="BUILD_ID" value="17"/>
-    <property name="TEMP" value="C:\Users\BHOOPE~1\AppData\Local\Temp"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
-    <property name="PROCESSOR_REVISION" value="2a07"/>
-    <property name="MpConfig_ProductCodeName" value="AntiSpyware"/>
-    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
-    <property name="HUDSON_HOME" value="C:\Users\Bhoopendra\.jenkins"/>
-    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="PATH+MAVEN" value="G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0/bin"/>
-    <property name="PROMPT" value="$P$G"/>
-    <property name="CURRENT_DIR" value="G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin"/>
-    <property name="java.vm.specification.version" value="1.8"/>
-    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_131"/>
-    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
-    <property name="NODE_LABELS" value="master"/>
-    <property name="sun.cpu.isalist" value="amd64"/>
-    <property name="USERPROFILE" value="C:\Users\Bhoopendra"/>
-    <property name="JOB_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/eMDCS/display/redirect"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="G:\Bhoopendra Singh(QA)\Automation Workspace\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf141421257877379555.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_131/bin/server;C:/Program Files/Java/jre1.8.0_131/bin;C:/Program Files/Java/jre1.8.0_131/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\nodejs\;C:\Users\Bhoopendra\AppData\Local\Android\sdk\tools;C:\Users\Bhoopendra\AppData\Local\Android\sdk\platform-tools;\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0\bin;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jre1.8.0_131\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Git\cmd;G:\Bhoopendra Singh(QA)\apache-tomcat-9.0.0.M22-windows-x64\apache-tomcat-9.0.0.M22\bin;;C:\Program Files (x86)\Microsoft VS Code\bin;G:\Bhoopendra Singh(QA)\Eclipse\eclipse-standard-kepler-SR2-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="6.1"/>
     <property name="user.home" value="C:\Users\Bhoopendra"/>
-    <property name="USERNAME" value="Bhoopendra"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="PROCESSOR_LEVEL" value="6"/>
-    <property name="USERDNSDOMAIN" value="INTERRAIT.INFO"/>
-    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
-    <property name="user.dir" value="G:\Bhoopendra Singh(QA)\Central_QA\Automation Repository\EMDCS\MavenProject"/>
-    <property name="maven.conf" value="G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf"/>
-    <property name="ProgramW6432" value="C:\Program Files"/>
-    <property name="TMP" value="C:\Users\BHOOPE~1\AppData\Local\Temp"/>
-    <property name="UATDATA" value="C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
-    <property name="MpConfig_ReportingGUID" value="4A0C0D43-60B6-4E41-9C77-9E13C6615A8D"/>
-    <property name="sun.cpu.endian" value="little"/>
-    <property name="SystemDrive" value="C:"/>
-    <property name="java.vm.version" value="25.131-b11"/>
-    <property name="java.class.path" value="C:\Users\Bhoopendra\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.11.jar;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0\boot\plexus-classworlds-2.5.2.jar;G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0/conf/logging"/>
-    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
-    <property name="MpConfig_ProductUserAppDataPath" value="C:\Users\Bhoopendra\AppData\Local\Microsoft\Windows Defender"/>
-    <property name="MpConfig_ProductAppDataPath" value="C:\ProgramData\Microsoft\Windows Defender"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="WORKSPACE" value="C:\Users\Bhoopendra\.jenkins\jobs\eMDCS\workspace"/>
-    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="SystemRoot" value="C:\Windows"/>
-    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="file.separator" value="\"/>
-    <property name="java.runtime.version" value="1.8.0_131-b11"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
-    <property name="ProgramFiles" value="C:\Program Files"/>
-    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_131/bin"/>
-    <property name="user.country" value="US"/>
-    <property name="POM_PACKAGING" value="jar"/>
-    <property name="maven.home" value="G:\Bhoopendra Singh(QA)\apache-maven-3.5.0-bin\apache-maven-3.5.0"/>
-    <property name="JOB_BASE_NAME" value="eMDCS"/>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="POM_DISPLAYNAME" value="MavenProject"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Bhoopendra"/>
+    <property name="java.class.path" value="/G:/Bhoopendra Singh(QA)/Eclipse/eclipse-standard-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.0.200.20111228-1245/jars/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="G:\Bhoopendra Singh(QA)\Central_QA\Automation Repository\EMDCS\MavenProject\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="org.emdcs.test.partsavailability.PartsAvailability" name="verifyPartsAvailability" time="17.879"/>
+  <testcase classname="core.TestBase" name="testSimple" time="4.553"/>
 </testsuite>

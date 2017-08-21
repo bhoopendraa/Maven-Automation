@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.emdcs.test.partsavailability.PartsAvailability" hash-for-method="verifyPartsAvailability">verifyPartsAvailability</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="core.TestBase" hash-for-method="testSimple">testSimple</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -120,14 +120,14 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">org.emdcs.test.partsavailability.PartsAvailability</span>
+              <span class="class-name">core.TestBase</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="verifyPartsAvailability">
-                  </a> <!-- verifyPartsAvailability -->
-                  <span class="method-name">verifyPartsAvailability</span>
+                  <a name="testSimple">
+                  </a> <!-- testSimple -->
+                  <span class="method-name">testSimple</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -144,7 +144,7 @@
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Suite&quot;&gt;
   &lt;test name=&quot;Test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;org.emdcs.test.partsavailability.PartsAvailability&quot;/&gt;
+      &lt;class name=&quot;core.TestBase&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -186,14 +186,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'verifyPartsAvailability')
-data.setCell(0, 2, 'org.emdcs.test.partsavailability.PartsAvailability')
-data.setCell(0, 3, 17878);
+data.setCell(0, 1, 'testSimple')
+data.setCell(0, 2, 'core.TestBase')
+data.setCell(0, 3, 4554);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 17 seconds</span>
+              <span class="suite-total-time">Total running time: 4 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -204,18 +204,6 @@ return data;
             <span class="header-content">Reporter output for Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">verifyPartsAvailability</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">Dealer selected </span>
-                <span class="reporter-method-output">Parts Availability Clicked</span>
-                <span class="reporter-method-output">Parts number entered</span>
-                <span class="reporter-method-output">quantity  entered</span>
-                <span class="reporter-method-output">Perform Stock Order Inquiry checkbox  clicked</span>
-                <span class="reporter-method-output">Submit button clicked </span>
-                <span class="reporter-method-output">Parts Availability SuccessfullyParts Availability Inquiry</span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-Suite" class="panel">
@@ -231,31 +219,19 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">org.emdcs.test.partsavailability.PartsAvailability</div> <!-- chronological-class-name -->
-              <div class="configuration-suite before">
+              <div class="chronological-class-name">core.TestBase</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
                 <span class="method-name">setUp</span>
                 <span class="method-start">0 ms</span>
-              </div> <!-- configuration-suite before -->
-              <div class="configuration-method before">
-                <span class="method-name">launchbrowser</span>
-                <span class="method-start">301 ms</span>
-              </div> <!-- configuration-method before -->
+              </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">verifyPartsAvailability</span>
-                <span class="method-start">16341 ms</span>
+                <span class="method-name">testSimple</span>
+                <span class="method-start">18075 ms</span>
               </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">closebrowser([TestResult name=verifyPartsAvailability status=SUCCESS method=PartsAvailability.verifyPartsAvailabi...)</span>
-                <span class="method-start">34220 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-test after">
-                <span class="method-name">exitbrowser</span>
-                <span class="method-start">34221 ms</span>
-              </div> <!-- configuration-test after -->
-              <div class="configuration-suite after">
+              <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">35154 ms</span>
-              </div> <!-- configuration-suite after -->
+                <span class="method-start">22630 ms</span>
+              </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

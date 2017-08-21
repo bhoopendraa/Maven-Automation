@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="org.emdcs.test.partsavailability.PartsAvailability">
+      <class name="org.emdcs.test.partsavailability.PartsAvailabilitybrowserstack">
         <methods>
-          <include name="setUp"/>
-          <include name="launchbrowser"/>
           <include name="verifyPartsAvailability"/>
+          <include name="beforeSuite"/>
         </methods>
-      </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
+      </class> <!-- org.emdcs.test.partsavailability.PartsAvailabilitybrowserstack -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

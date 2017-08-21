@@ -1,36 +1,58 @@
 package core;
-import java.net.URL;
-import java.net.MalformedURLException;
+import org.testng.annotations.Test;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 
+import java.io.File;
+import java.io.IOException;
+import java.net.URL;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.Platform;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.Augmenter;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.AfterSuite;
-import org.testng.annotations.BeforeSuite;
 
 public class TestBase {
 
-	public static WebDriver driver;
-
-	@BeforeSuite
-	public void beforeSuite() throws MalformedURLException {
-
+	private WebDriver driver;
 		//Set up desired capabilities and pass the Android app-activity and app-package to Appium
-		String username = System.getenv("BROWSERSTACK_USER");
-		String accessKey = System.getenv("BROWSERSTACK_ACCESSKEY");
-		String browserstackLocal = System.getenv("BROWSERSTACK_LOCAL");
-		String browserstackLocalIdentifier = System.getenv("BROWSERSTACK_LOCAL_IDENTIFIER");
+	@BeforeClass
+	  public void setUp() throws Exception {
+	    DesiredCapabilities capability = new DesiredCapabilities();
+	    capability.setPlatform(Platform.WINDOWS);
+	    capability.setCapability("build", "TestNG - Sample");
 
-		DesiredCapabilities capabilities = new DesiredCapabilities();
-		capabilities.setCapability("os", "Windows");
-		capabilities.setCapability("browser", "chrome");
-		capabilities.setCapability("browserstack.local", browserstackLocal);
-		capabilities.setCapability("browserstack.localIdentifier", browserstackLocalIdentifier);
-		driver = new RemoteWebDriver(new URL("https://" + username + ":" + accessKey + "@hub.browserstack.com/wd/hub"), capabilities);
-	}
+	    driver = new RemoteWebDriver(
+	      new URL("https://bhoopendra3:isAifDZqiw4SXKHpfbc9@hub-cloud.browserstack.com/wd/hub"),
+	      capability
+	    );
+	  }
 
-	@AfterSuite
-	public void afterSuite() throws Exception {
-		driver.quit();
+	  @Test
+	  public void testSimple() throws Exception {
+	    driver.get("http://www.google.com");
+	    System.out.println("Page title is: " + driver.getTitle());
+	    WebElement element = driver.findElement(By.name("q"));
+	    element.sendKeys("BrowserStack");
+	    element.submit();
+	    driver = new Augmenter().augment(driver);
+	    File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
+	    try {
+	      FileUtils.copyFile(srcFile, new File("Screenshot.png"));
+	    } catch (IOException e) {
+	      e.printStackTrace();
+	    }
+	  }
+
+	  @AfterClass
+	  public void tearDown() throws Exception {
+	    driver.quit();
+	  }
+
 	}
-}

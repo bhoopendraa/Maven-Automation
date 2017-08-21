@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import core.TestBase;
 
 public class PartsAvailabilitybrowserstack extends TestBase{
-	String actual_res=null;
+	/*String actual_res=null;
 	public static String numberAsString;
 	 @Test()
 	  public void verifyPartsAvailability() throws Exception {
@@ -37,5 +37,5 @@ public class PartsAvailabilitybrowserstack extends TestBase{
 			Assert.assertEquals(actual_Result,expected_Result);
 			Reporter.log("Parts Availability Successfully"+expected_Result);
 	}
-
+*/
 }

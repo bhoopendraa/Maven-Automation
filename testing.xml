@@ -12,7 +12,9 @@
  
  <class name="org.emdcs.test.partsview.VerifyInvoiceByPartNumber"/>
  <class name="org.emdcs.test.partsview.VerifytodaySalesOrders"/> -->
- <class name="org.emdcs.test.partsavailability.PartsAvailabilitybrowserstack"/>
+ <class name="core.TestBase"/> 
+ 
+ <!-- <class name="org.emdcs.test.partsavailability.PartsAvailabilitybrowserstack"/> -->
 <!--  <class name="org.emdcs.test.partsreturn.PartsReturnRequestTest"/> -->
   </classes>
   </test> <!-- Test -->

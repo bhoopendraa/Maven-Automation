@@ -5,11 +5,10 @@ import java.io.IOException;
 import org.emdcs.partsordering.pageobject.LoginEmdcs;
 import org.emdcs.test.utility.Log1;
 import org.openqa.selenium.WebDriver;
-
 import core.Launchbrowser;
 import dataobject.Logindata;
 
-public class LoginEmdcsModule extends Launchbrowser {
+public class LoginEmdcsModule extends Launchbrowser{
 	//Method calls all methods to perform necessary actions
 		public void Loginuser(WebDriver driver) throws IOException{
 			LoginEmdcs login=new LoginEmdcs(driver);

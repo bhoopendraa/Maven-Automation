@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test name="Test(failed)">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test name="FirstTest(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="version" value="10"/>
+    <parameter name="platform" value="WINDOWS"/>
     <classes>
-      <class name="org.emdcs.test.partsavailability.PartsAvailability">
+      <class name="browserstacktestcase.PartsAvailabilitybrowserstack">
         <methods>
-          <include name="setUp"/>
-          <include name="launchbrowser"/>
           <include name="verifyPartsAvailability"/>
+          <include name="launchbrowser"/>
+          <include name="launchbrowser"/>
+          <include name="setUp"/>
+          <include name="closebrowser"/>
+          <include name="closebrowser"/>
         </methods>
-      </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
+      </class> <!-- browserstacktestcase.PartsAvailabilitybrowserstack -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- FirstTest(failed) -->
+  <test name="SecondTest(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="version" value="8.1"/>
+    <parameter name="platform" value="WINDOWS"/>
+    <classes>
+      <class name="browserstacktestcase.PartsAvailabilitybrowserstack">
+        <methods>
+          <include name="verifyPartsAvailability"/>
+          <include name="launchbrowser"/>
+          <include name="launchbrowser"/>
+          <include name="setUp"/>
+          <include name="closebrowser"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- browserstacktestcase.PartsAvailabilitybrowserstack -->
+    </classes>
+  </test> <!-- SecondTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

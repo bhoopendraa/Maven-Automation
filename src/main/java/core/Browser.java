@@ -12,6 +12,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.ITestResult;
@@ -41,6 +42,11 @@ public class Browser {
 					"R:\\Windows8.1-KB2990999-x64.msu");
 			;
 			driver = new InternetExplorerDriver();
+			// driver.manage().window().maximize();
+		}
+		else if (browser.equalsIgnoreCase("HTML")) {
+			
+			driver = new HtmlUnitDriver();
 			// driver.manage().window().maximize();
 		}
 		return driver;

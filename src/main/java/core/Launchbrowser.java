@@ -58,7 +58,7 @@ public class Launchbrowser {
 		System.out.println("Pre-Method lounched");
 		//Log.startTestCase("Selenium_Test_001");
 		if (driver == null) {
-			this.driver = new Browser().launch("Chrome");
+			this.driver = new Browser().launch("HTML");
 			driver.manage().window().maximize();
 		}
 		driver.manage().deleteAllCookies();

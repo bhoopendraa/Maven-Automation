@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
-  <test name="FirstTest(failed)" parallel="tests">
-    <parameter name="browser" value="chrome"/>
-    <parameter name="version" value="10"/>
-    <parameter name="platform" value="WINDOWS"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
-      <class name="browserstacktestcase.PartsAvailabilitybrowserstack">
+      <class name="org.emdcs.test.partsavailability.PartsAvailability">
         <methods>
-          <include name="verifyPartsAvailability"/>
-          <include name="launchbrowser"/>
-          <include name="launchbrowser"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
+          <include name="launchbrowser"/>
           <include name="closebrowser"/>
-          <include name="closebrowser"/>
-        </methods>
-      </class> <!-- browserstacktestcase.PartsAvailabilitybrowserstack -->
-    </classes>
-  </test> <!-- FirstTest(failed) -->
-  <test name="SecondTest(failed)" parallel="tests">
-    <parameter name="browser" value="firefox"/>
-    <parameter name="version" value="8.1"/>
-    <parameter name="platform" value="WINDOWS"/>
-    <classes>
-      <class name="browserstacktestcase.PartsAvailabilitybrowserstack">
-        <methods>
+          <include name="exitbrowser"/>
           <include name="verifyPartsAvailability"/>
-          <include name="launchbrowser"/>
-          <include name="launchbrowser"/>
-          <include name="setUp"/>
-          <include name="closebrowser"/>
-          <include name="closebrowser"/>
         </methods>
-      </class> <!-- browserstacktestcase.PartsAvailabilitybrowserstack -->
+      </class> <!-- org.emdcs.test.partsavailability.PartsAvailability -->
     </classes>
-  </test> <!-- SecondTest(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

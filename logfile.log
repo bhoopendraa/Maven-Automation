@@ -987,3 +987,17 @@
 2017-08-31 15:49:30,300 INFO  [Log1] No data was found base on your request parameters. 
 2017-08-31 15:49:32,300 INFO  [Log1] todaySalesOrders view successfully 
 2017-08-31 15:49:32,300 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-08-31 16:00:51,177 INFO  [Log1] Driver Launched successfully 
+2017-08-31 16:00:52,436 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-31 16:00:52,441 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-31 16:01:55,801 INFO  [Log1] Driver Launched successfully 
+2017-08-31 16:01:57,265 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-08-31 16:01:57,268 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-08-31 16:02:00,329 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-08-31 16:02:01,149 INFO  [Log1] Select the Dealer Number 
+2017-08-31 16:02:01,164 INFO  [Log1] Click on Parts View Menu 
+2017-08-31 16:02:01,190 INFO  [Log1] Click on Today Sales Order  
+2017-08-31 16:02:11,294 INFO  [Log1] Found total number of rows 
+2017-08-31 16:02:11,294 INFO  [Log1] No data was found base on your request parameters. 
+2017-08-31 16:02:13,295 INFO  [Log1] todaySalesOrders view successfully 
+2017-08-31 16:02:13,295 INFO  [Log1] =======Finished todaySalesOrders test======== 

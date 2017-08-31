@@ -27,7 +27,7 @@ public class Browser {
 
 		if (browser.equalsIgnoreCase("Chrome")) {
 			System.setProperty("webdriver.chrome.driver",
-					"chromedriver\\chromedriver.exe");
+					"chromedriver\\chromedriver");
 			driver = new ChromeDriver();
 		}
 		if (browser.equalsIgnoreCase("FF")) {

@@ -1001,3 +1001,96 @@
 2017-08-31 16:02:11,294 INFO  [Log1] No data was found base on your request parameters. 
 2017-08-31 16:02:13,295 INFO  [Log1] todaySalesOrders view successfully 
 2017-08-31 16:02:13,295 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-09-01 15:49:27,412 INFO  [Log1] Driver Launched successfully 
+2017-09-01 15:49:28,776 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 15:49:28,780 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 15:53:16,528 INFO  [Log1] Driver Launched successfully 
+2017-09-01 15:53:16,726 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 15:53:16,866 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 15:56:20,738 INFO  [Log1] Driver Launched successfully 
+2017-09-01 15:56:21,922 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 15:56:21,948 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 15:58:42,611 INFO  [Log1] Driver Launched successfully 
+2017-09-01 15:58:44,063 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 15:58:44,069 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:00:51,612 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:00:53,132 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:00:53,142 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:02:03,024 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:02:04,588 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:02:04,593 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:04:54,668 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:04:56,148 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:04:56,158 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:04:59,290 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-09-01 16:05:00,163 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:05:00,201 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:05:00,242 INFO  [Log1] Click on Today Sales Order  
+2017-09-01 16:05:10,348 INFO  [Log1] Found total number of rows 
+2017-09-01 16:05:10,348 INFO  [Log1] No data was found base on your request parameters. 
+2017-09-01 16:05:12,348 INFO  [Log1] todaySalesOrders view successfully 
+2017-09-01 16:05:12,348 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-09-01 16:05:13,483 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:05:13,494 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:05:13,500 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:05:16,489 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-09-01 16:05:16,517 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:05:16,524 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:06:06,017 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:06:07,515 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:06:07,567 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:06:10,447 INFO  [Log1] =======Starting InvoiceByPartNumber test======== 
+2017-09-01 16:06:11,327 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:06:11,350 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:07:01,759 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:07:03,234 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:07:03,261 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:07:06,351 INFO  [Log1] =======Starting trackShipmentByDate test======== 
+2017-09-01 16:07:07,183 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:07:07,220 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:07:44,444 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:07:45,947 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:07:45,950 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:07:48,924 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-09-01 16:07:49,789 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:07:49,814 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:07:49,849 INFO  [Log1] Click on Today Sales Order  
+2017-09-01 16:07:59,960 INFO  [Log1] Found total number of rows 
+2017-09-01 16:07:59,960 INFO  [Log1] No data was found base on your request parameters. 
+2017-09-01 16:08:01,960 INFO  [Log1] todaySalesOrders view successfully 
+2017-09-01 16:08:01,960 INFO  [Log1] =======Finished todaySalesOrders test======== 
+2017-09-01 16:08:13,071 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:08:14,503 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:08:14,506 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:08:17,395 INFO  [Log1] =======Starting custPONumber test======== 
+2017-09-01 16:08:18,232 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:08:18,269 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:09:15,802 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:09:17,344 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:09:17,366 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:09:20,505 INFO  [Log1] =======Starting VerifyCSOpartsOrdering test======== 
+2017-09-01 16:09:21,147 INFO  [Log1] Parts Orderd menu Clicked 
+2017-09-01 16:09:32,340 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:09:32,344 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:09:32,346 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:09:35,136 INFO  [Log1] =======Starting Verifypartsinquiry test======== 
+2017-09-01 16:09:35,154 INFO  [Log1] Parts Orderd menu Clicked 
+2017-09-01 16:09:46,343 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:09:46,350 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:09:46,356 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:09:49,101 INFO  [Log1] =======Starting VerifyCSOPartsReset test======== 
+2017-09-01 16:09:49,130 INFO  [Log1] Parts Orderd menu Clicked 
+2017-09-01 16:10:03,771 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:10:05,255 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:10:05,259 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:10:42,177 INFO  [Log1] Driver Launched successfully 
+2017-09-01 16:10:43,673 INFO  [Log1] UserName Entered>>>>>>>>>yrawat 
+2017-09-01 16:10:43,684 INFO  [Log1] Password Entered>>>>>>>>>>mAZDAUSA4 
+2017-09-01 16:10:46,526 INFO  [Log1] =======Starting todaySalesOrders test======== 
+2017-09-01 16:10:47,376 INFO  [Log1] Select the Dealer Number 
+2017-09-01 16:10:47,392 INFO  [Log1] Click on Parts View Menu 
+2017-09-01 16:10:47,416 INFO  [Log1] Click on Today Sales Order  
+2017-09-01 16:10:57,522 INFO  [Log1] Found total number of rows 
+2017-09-01 16:10:57,522 INFO  [Log1] No data was found base on your request parameters. 
+2017-09-01 16:10:59,523 INFO  [Log1] todaySalesOrders view successfully 
+2017-09-01 16:10:59,523 INFO  [Log1] =======Finished todaySalesOrders test======== 

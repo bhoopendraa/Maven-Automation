@@ -2,43 +2,43 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite2" duration-ms="47724" started-at="2017-09-01T11:36:58Z" finished-at="2017-09-01T11:37:46Z">
+  <suite name="Suite2" duration-ms="21124" started-at="2017-09-01T11:50:34Z" finished-at="2017-09-01T11:50:55Z">
     <groups>
     </groups>
-    <test name="Tes2t" duration-ms="47724" started-at="2017-09-01T11:36:58Z" finished-at="2017-09-01T11:37:46Z">
-      <class name="org.emdcs.test.partsview.VerifytodaySalesOrders">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="setUp" is-config="true" duration-ms="337" started-at="2017-09-01T17:06:58Z" finished-at="2017-09-01T17:06:58Z">
+    <test name="Tes2t" duration-ms="21124" started-at="2017-09-01T11:50:34Z" finished-at="2017-09-01T11:50:55Z">
+      <class name="org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="setUp" is-config="true" duration-ms="248" started-at="2017-09-01T17:20:33Z" finished-at="2017-09-01T17:20:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="launchbrowser" is-config="true" duration-ms="33752" started-at="2017-09-01T17:06:58Z" finished-at="2017-09-01T17:07:32Z">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="launchbrowser" is-config="true" duration-ms="7937" started-at="2017-09-01T17:20:34Z" finished-at="2017-09-01T17:20:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="todaySalesOrders()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="todaySalesOrders" duration-ms="13728" started-at="2017-09-01T17:07:32Z" finished-at="2017-09-01T17:07:46Z">
+        <test-method status="PASS" signature="todaySalesOrdersDemo()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="todaySalesOrdersDemo" duration-ms="13157" started-at="2017-09-01T17:20:42Z" finished-at="2017-09-01T17:20:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- todaySalesOrders -->
-        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="closebrowser" is-config="true" duration-ms="216" started-at="2017-09-01T17:07:46Z" finished-at="2017-09-01T17:07:46Z">
+        </test-method> <!-- todaySalesOrdersDemo -->
+        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="closebrowser" is-config="true" duration-ms="10" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=todaySalesOrders status=SUCCESS method=VerifytodaySalesOrders.todaySalesOrders()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8] output={null}]]]>
+                <![CDATA[[TestResult name=todaySalesOrdersDemo status=SUCCESS method=VerifytodaySalesOrdersDemo.todaySalesOrdersDemo()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="exitbrowser" is-config="true" duration-ms="8" started-at="2017-09-01T17:07:46Z" finished-at="2017-09-01T17:07:46Z">
+        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="exitbrowser" is-config="true" duration-ms="1" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitbrowser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsview.VerifytodaySalesOrders@239963d8]" name="tearDown" is-config="true" duration-ms="3540" started-at="2017-09-01T17:07:47Z" finished-at="2017-09-01T17:07:51Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="tearDown" is-config="true" duration-ms="341" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.emdcs.test.partsview.VerifytodaySalesOrders -->
+      </class> <!-- org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo -->
     </test> <!-- Tes2t -->
   </suite> <!-- Suite2 -->
 </testng-results>

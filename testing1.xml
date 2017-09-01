@@ -3,7 +3,7 @@
 <suite name="Suite2">
   <test name="Tes2t">
     <classes>
- <class name="org.emdcs.test.partsview.VerifytrackShipmentByDate"/>
+ <class name="org.emdcs.test.partsview.VerifytodaySalesOrders"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -3,7 +3,7 @@
 <suite name="Suite11">
   <test name="Test12">
     <classes>
- <class name="org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo"/>
+ <class name="browserstack.TestBase"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -86,7 +86,7 @@
      <skipTests>false</skipTests>
      <testFailureIgnore>true</testFailureIgnore>
            <suiteXmlFiles>
-               <suiteXmlFile>testing.xml</suiteXmlFile>
+               <!--  <suiteXmlFile>testing.xml</suiteXmlFile>-->
                 <suiteXmlFile>testing1.xml</suiteXmlFile>
           </suiteXmlFiles>
                  </configuration> 

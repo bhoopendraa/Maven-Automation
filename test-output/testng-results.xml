@@ -2,43 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite2" duration-ms="21124" started-at="2017-09-01T11:50:34Z" finished-at="2017-09-01T11:50:55Z">
+  <suite name="Suite11" duration-ms="13040" started-at="2017-09-06T06:51:59Z" finished-at="2017-09-06T06:52:12Z">
     <groups>
     </groups>
-    <test name="Tes2t" duration-ms="21124" started-at="2017-09-01T11:50:34Z" finished-at="2017-09-01T11:50:55Z">
-      <class name="org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="setUp" is-config="true" duration-ms="248" started-at="2017-09-01T17:20:33Z" finished-at="2017-09-01T17:20:34Z">
+    <test name="Test12" duration-ms="13040" started-at="2017-09-06T06:51:59Z" finished-at="2017-09-06T06:52:12Z">
+      <class name="browserstack.TestBase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:browserstack.TestBase@14bf9759]" name="setUp" is-config="true" duration-ms="4741" started-at="2017-09-06T12:21:59Z" finished-at="2017-09-06T12:22:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="launchbrowser" is-config="true" duration-ms="7937" started-at="2017-09-01T17:20:34Z" finished-at="2017-09-01T17:20:42Z">
+        <test-method status="PASS" signature="testSimple()[pri:0, instance:browserstack.TestBase@14bf9759]" name="testSimple" duration-ms="4303" started-at="2017-09-06T12:22:04Z" finished-at="2017-09-06T12:22:08Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchbrowser -->
-        <test-method status="PASS" signature="todaySalesOrdersDemo()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="todaySalesOrdersDemo" duration-ms="13157" started-at="2017-09-01T17:20:42Z" finished-at="2017-09-01T17:20:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- todaySalesOrdersDemo -->
-        <test-method status="PASS" signature="closebrowser(org.testng.ITestResult)[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="closebrowser" is-config="true" duration-ms="10" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=todaySalesOrdersDemo status=SUCCESS method=VerifytodaySalesOrdersDemo.todaySalesOrdersDemo()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closebrowser -->
-        <test-method status="PASS" signature="exitbrowser()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="exitbrowser" is-config="true" duration-ms="1" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- exitbrowser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo@239963d8]" name="tearDown" is-config="true" duration-ms="341" started-at="2017-09-01T17:20:55Z" finished-at="2017-09-01T17:20:55Z">
+        </test-method> <!-- testSimple -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:browserstack.TestBase@14bf9759]" name="tearDown" is-config="true" duration-ms="3985" started-at="2017-09-06T12:22:08Z" finished-at="2017-09-06T12:22:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.emdcs.test.partsreturn.VerifytodaySalesOrdersDemo -->
-    </test> <!-- Tes2t -->
-  </suite> <!-- Suite2 -->
+      </class> <!-- browserstack.TestBase -->
+    </test> <!-- Test12 -->
+  </suite> <!-- Suite11 -->
 </testng-results>

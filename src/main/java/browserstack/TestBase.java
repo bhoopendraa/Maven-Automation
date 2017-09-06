@@ -29,7 +29,7 @@ public class TestBase {
 	    capability.setCapability("build", "TestNG - Sample");
 
 	    driver = new RemoteWebDriver(
-	      new URL("https://bhoopendra3:isAifDZqiw4SXKHpfbc9@hub-cloud.browserstack.com/wd/hub"),
+	      new URL("https://bhoopi1:ZqFUPsm6rQDQXpfCJH1h@hub-cloud.browserstack.com/wd/hub"),
 	      capability
 	    );
 	  }
